@@ -1,4 +1,4 @@
-<p align="center"><img src="assets/tryhackme.png" width="100%"></p>
+<p align="center"><img src="/assets/tryhackme.png" width="100%"></p>
 
 # 🚀 500+ Free TryHackMe Rooms (Completely Free)
 
@@ -1184,5 +1184,4 @@ Here are a few other labs you could consider adding:
 - [ ] [🕵️ TryHackMe | Learn and win prizes](https://tryhackme.com/room/tickets1)
 
 - [ ] [🕵️ TryHackMe | Learn and win prizes #2](https://tryhackme.com/room/tickets2)
-
 
