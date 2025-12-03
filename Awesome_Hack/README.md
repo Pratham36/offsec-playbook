@@ -1,4 +1,4 @@
-<div align="center"><img src="/assets/img.xml" width="100%">
+<div align="center"><img src="/assets/img.svg" width="100%">
 
  # [Awesome-Hacking](https://github.com/Pratham36/offsec-playbook)
  
@@ -739,4 +739,5 @@ Explore our curated resources, enhance your skills, and join a community of pass
 [Cheatsheet God](https://github.com/OlivierLaflamme/Cheatsheet-God?tab=readme-ov-file) | Comprehensive cheatsheets for various hacking techniques, including OSCP preparation. 📑
 [Movies for Hackers](https://github.com/k4m4/movies-for-hackers) | List of movies every hacker should watch for entertainment and inspiration. 🎥
 [Free Security E-Books](https://github.com/Hack-with-Github/Free-Security-eBooks) | A collection of freely available e-books covering diverse topics in cybersecurity. 📚
+
 </div>
