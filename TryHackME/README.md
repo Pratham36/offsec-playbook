@@ -6,6 +6,7 @@ A curated collection of **500+ free TryHackMe rooms** covering everything from b
 <p align="center">
   <img src="https://img.shields.io/static/v1?label=%F0%9F%8C%9F&message=If%20Useful&style=flat&color=BC4E99" alt="Star Badge"/>
   <img src="https://img.shields.io/badge/PRs-welcome-brown.svg?longCache=true" alt="Pull Requests"/>
+  <img src="https://img.shields.io/badge/License-CCO_1.0-lightgrey.svg?longCache=true" alt="CCO_1.0 License"/>
   <img src="https://img.shields.io/github/last-commit/Hunterdii/tryhackme-free-rooms?display_timestamp=author&style=flat&logo=tryhackme-free-rooms&logoColor=%23F74C00&logoSize=auto&label=TryHackMe%20Free%20Rooms&labelColor=Lavender&color=%239b59b6&cacheSeconds=200" alt="Last Commit"/>
   <img src="https://img.shields.io/badge/Owner-%40Pratham36-<COLOR>.svg" alt="Owner Badge"/>
 </p> 
