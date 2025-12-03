@@ -50,7 +50,7 @@ Ready to start hacking? **Let’s go!** 💥
 
 ## 🛡️ Maintainer  
 
-> **_This repository is maintained by [Hunterdii](https://github.com/Pratham36)._**  
+> **_This repository is maintained by [Pratham](https://github.com/Pratham36)._**  
 > Have suggestions? Feel free to reach out to [me via email](ashrapratham9@gmail.com). 📧
 
 ---
@@ -122,7 +122,7 @@ Here are a few other labs you could consider adding:
 
 - [ ] [🕵️ TryHackMe | Hosted Hypervisors](https://tryhackme.com/room/hostedhypervisors)
   
-- [x] [🕵️ TryHackMe | Enumeration & Brute Force](https://tryhackme.com/room/enumerationbruteforce)
+- [ ] [🕵️ TryHackMe | Enumeration & Brute Force](https://tryhackme.com/room/enumerationbruteforce)
   
 - [ ] [🕵️ TryHackMe | Introduction to CryptOps](https://tryhackme.com/room/introductiontocryptops)
   
@@ -130,7 +130,7 @@ Here are a few other labs you could consider adding:
   
 - [ ] [🕵️ TryHackMe | Threat Hunting: Foothold](https://tryhackme.com/room/threathuntingfoothold)
   
-- [x] [🕵️ TryHackMe | Threat Hunting: Introduction](https://tryhackme.com/room/introductiontothreathunting)
+- [ ] [🕵️ TryHackMe | Threat Hunting: Introduction](https://tryhackme.com/room/introductiontothreathunting)
   
 - [ ] [🕵️ TryHackMe | Preparation](https://tryhackme.com/room/preparation)
 
@@ -138,29 +138,29 @@ Here are a few other labs you could consider adding:
 
 - [ ] [🕵️ TryHackMe | Intro to Threat Emulation](https://tryhackme.com/room/threatemulationintro)
 
-- [x] [🕵️ TryHackMe | Security Engineer Intro](https://tryhackme.com/room/securityengineerintro)
+- [ ] [🕵️ TryHackMe | Security Engineer Intro](https://tryhackme.com/room/securityengineerintro)
   
 - [ ] [🕵️ TryHackMe | Intro to Docker](https://tryhackme.com/room/introtodockerk8pdqk)
 
-- [x] [🕵️ TryHackMe | SDLC](https://tryhackme.com/room/sdlc)
+- [ ] [🕵️ TryHackMe | SDLC](https://tryhackme.com/room/sdlc)
 
 - [ ] [🕵️ TryHackMe | Welcome](https://tryhackme.com/room/hello)
 
 - [ ] [🕵️ TryHackMe | How to use TryHackMe](https://tryhackme.com/room/howtousetryhackme)
 
-- [x] [🕵️ TryHackMe | Tutorial](https://tryhackme.com/room/tutorial)
+- [ ] [🕵️ TryHackMe | Tutorial](https://tryhackme.com/room/tutorial)
 
-- [x] [🕵️ TryHackMe | OpenVPN](https://tryhackme.com/room/openvpn)
+- [ ] [🕵️ TryHackMe | OpenVPN](https://tryhackme.com/room/openvpn)
 
-- [x] [🕵️ TryHackMe | Learning Cyber Security](https://tryhackme.com/room/beginnerpathintro)
+- [ ] [🕵️ TryHackMe | Learning Cyber Security](https://tryhackme.com/room/beginnerpathintro)
 
-- [x] [🕵️ TryHackMe | Starting Out In Cyber Sec](https://tryhackme.com/room/startingoutincybersec)
+- [ ] [🕵️ TryHackMe | Starting Out In Cyber Sec](https://tryhackme.com/room/startingoutincybersec)
 
 - [ ] [🕵️ TryHackMe | Introductory Researching](https://tryhackme.com/room/introtoresearch)
 
 - [ ] [🕵️ TryHackMe | Regular expressions](https://tryhackme.com/room/catregex)
 
-- [x] [🕵️ TryHackMe | Careers in Cyber](https://tryhackme.com/room/careersincyber)
+- [ ] [🕵️ TryHackMe | Careers in Cyber](https://tryhackme.com/room/careersincyber)
 
 - [ ] [🕵️ TryHackMe | Junior Security Analyst Intro](https://tryhackme.com/room/jrsecanalystintrouxo)
 
@@ -171,11 +171,11 @@ Here are a few other labs you could consider adding:
 
 - [ ] [🕵️ TryHackMe | Linux Modules](https://tryhackme.com/room/linuxmodules)
   
-- [x] [🕵️ TryHackMe | Linux Fundamentals Part 1](https://tryhackme.com/room/linuxfundamentalspart1)
+- [ ] [🕵️ TryHackMe | Linux Fundamentals Part 1](https://tryhackme.com/room/linuxfundamentalspart1)
   
-- [x] [🕵️ TryHackMe | Linux Fundamentals Part 2](https://tryhackme.com/room/linuxfundamentalspart2)  **🚨 Attention!** Multiple users have reported that this room is **no longer free.**
+- [ ] [🕵️ TryHackMe | Linux Fundamentals Part 2](https://tryhackme.com/room/linuxfundamentalspart2)  **🚨 Attention!** Multiple users have reported that this room is **no longer free.**
  
-- [x] [🕵️ TryHackMe | Linux Fundamentals Part 3](https://tryhackme.com/room/linuxfundamentalspart3)  **🚨 Attention!** Multiple users have reported that this room is **no longer free.**
+- [ ] [🕵️ TryHackMe | Linux Fundamentals Part 3](https://tryhackme.com/room/linuxfundamentalspart3)  **🚨 Attention!** Multiple users have reported that this room is **no longer free.**
 
 ## Windows Fundamentals
 
@@ -199,7 +199,7 @@ Here are a few other labs you could consider adding:
 
 - [ ] [🕵️ TryHackMe | Basic Pentesting](https://tryhackme.com/room/basicpentestingjt)
 
-- [x] [🕵️ TryHackMe | Pentesting Fundamentals](https://tryhackme.com/room/pentestingfundamentals)
+- [ ] [🕵️ TryHackMe | Pentesting Fundamentals](https://tryhackme.com/room/pentestingfundamentals)
 
 - [ ] [🕵️ TryHackMe | Principles of Security](https://tryhackme.com/room/principlesofsecurity)
 
@@ -223,11 +223,11 @@ Here are a few other labs you could consider adding:
 
 - [ ] [🕵️ TryHackMe | Content Discovery](https://tryhackme.com/room/contentdiscovery)
 
-- [x] [🕵️ TryHackMe | OhSINT](https://tryhackme.com/room/ohsint)
+- [ ] [🕵️ TryHackMe | OhSINT](https://tryhackme.com/room/ohsint)
 
 - [ ] [🕵️ TryHackMe | Shodan.io](https://tryhackme.com/room/shodan)
 
-- [x] [🕵️ TryHackMe | Google Dorking](https://tryhackme.com/room/googledorking)
+- [ ] [🕵️ TryHackMe | Google Dorking](https://tryhackme.com/room/googledorking)
 
 - [ ] [🕵️ TryHackMe | WebOSINT](https://tryhackme.com/room/webosint)
 
@@ -255,17 +255,17 @@ Here are a few other labs you could consider adding:
 
 ## Networking
 
-- [x] [🕵️ TryHackMe | Introductory Networking](https://tryhackme.com/room/introtonetworking)
+- [ ] [🕵️ TryHackMe | Introductory Networking](https://tryhackme.com/room/introtonetworking)
 
-- [x] [🕵️ TryHackMe | What is Networking?](https://tryhackme.com/room/whatisnetworking)
+- [ ] [🕵️ TryHackMe | What is Networking?](https://tryhackme.com/room/whatisnetworking)
 
 - [ ] [🕵️ TryHackMe | Networking](https://tryhackme.com/room/bpnetworking)
 
-- [x] [🕵️ TryHackMe | Intro to LAN](https://tryhackme.com/room/introtolan) **🚨 Attention!** Multiple users have reported that this room is **no longer free.**
+- [ ] [🕵️ TryHackMe | Intro to LAN](https://tryhackme.com/room/introtolan) **🚨 Attention!** Multiple users have reported that this room is **no longer free.**
 
-- [x] [🕵️ TryHackMe | HTTP in detail](https://tryhackme.com/room/httpindetail)
+- [ ] [🕵️ TryHackMe | HTTP in detail](https://tryhackme.com/room/httpindetail)
 
-- [x] [🕵️ TryHackMe | DNS in detail](https://tryhackme.com/room/dnsindetail)
+- [ ] [🕵️ TryHackMe | DNS in detail](https://tryhackme.com/room/dnsindetail)
 
 - [ ] [🕵️ TryHackMe | Dumping Router Firmware](https://tryhackme.com/room/rfirmware)
 
@@ -277,7 +277,7 @@ Here are a few other labs you could consider adding:
   
 - [ ] [🕵️ TryHackMe | Intro to IaC](https://tryhackme.com/room/introtoiac)
 
-- [x] [🕵️ TryHackMe | Metasploit: Introduction](https://tryhackme.com/room/metasploitintro)
+- [ ] [🕵️ TryHackMe | Metasploit: Introduction](https://tryhackme.com/room/metasploitintro)
 
 - [ ] [🕵️ TryHackMe | tmux](https://tryhackme.com/room/rptmux)
 
@@ -293,11 +293,11 @@ Here are a few other labs you could consider adding:
 
 - [ ] [🕵️ TryHackMe | RustScan](https://tryhackme.com/room/rustscan)
 
-- [x] [🕵️ TryHackMe | Nessus](https://tryhackme.com/room/rpnessusredux)
+- [ ] [🕵️ TryHackMe | Nessus](https://tryhackme.com/room/rpnessusredux)
 
 - [ ] [🕵️ TryHackMe | Nmap Live Host Discovery](https://tryhackme.com/room/nmap01)
 
-- [x] [🕵️ TryHackMe | Nmap](https://tryhackme.com/room/furthernmap)
+- [ ] [🕵️ TryHackMe | Nmap](https://tryhackme.com/room/furthernmap)
 
 - [ ] [🕵️ TryHackMe | TShark](https://tryhackme.com/room/tshark)
 
@@ -321,7 +321,7 @@ Here are a few other labs you could consider adding:
 
 - [ ] [🕵️ TryHackMe | Cryptography for Dummies](https://tryhackme.com/room/cryptographyfordummies)
 
-- [x] [🕵️ TryHackMe | Crack the hash](https://tryhackme.com/room/crackthehash)
+- [ ] [🕵️ TryHackMe | Crack the hash](https://tryhackme.com/room/crackthehash)
 
 - [ ] [🕵️ TryHackMe | Crack The Hash Level 2](https://tryhackme.com/room/crackthehashlevel2)
 
@@ -329,7 +329,7 @@ Here are a few other labs you could consider adding:
 
 - [ ] [🕵️ TryHackMe | Brute It](https://tryhackme.com/room/bruteit)
 
-- [x] [🕵️ TryHackMe | Introduction to Cryptography](https://tryhackme.com/room/cryptographyintro)
+- [ ] [🕵️ TryHackMe | Introduction to Cryptography](https://tryhackme.com/room/cryptographyintro)
 
 ## Steganography
 
@@ -347,13 +347,13 @@ Here are a few other labs you could consider adding:
 
 ## Web
 
-- [x] [🕵️ TryHackMe | Microservices Architectures](https://tryhackme.com/room/microservicearchitectures)
+- [ ] [🕵️ TryHackMe | Microservices Architectures](https://tryhackme.com/room/microservicearchitectures)
   
-- [x] [🕵️ TryHackMe | NoSQL Injection](https://tryhackme.com/room/nosqlinjectiontutorial)
+- [ ] [🕵️ TryHackMe | NoSQL Injection](https://tryhackme.com/room/nosqlinjectiontutorial)
   
 - [ ] [🕵️ TryHackMe | Advanced SQL Injection](https://tryhackme.com/room/advancedsqlinjection)
   
-- [x] [🕵️ TryHackMe | XSS](https://tryhackme.com/room/axss)
+- [ ] [🕵️ TryHackMe | XSS](https://tryhackme.com/room/axss)
   
 - [ ] [🕵️ TryHackMe | CSRF](https://tryhackme.com/room/csrfV2)
   
@@ -365,7 +365,7 @@ Here are a few other labs you could consider adding:
 
 - [ ] [🕵️ TryHackMe | SSRF](https://tryhackme.com/room/ssrfhr)
 
-- [x] [🕵️ TryHackMe | OWASP Broken Access Control](https://tryhackme.com/room/owaspbrokenaccesscontrol)
+- [ ] [🕵️ TryHackMe | OWASP Broken Access Control](https://tryhackme.com/room/owaspbrokenaccesscontrol)
 
 - [ ] [🕵️ TryHackMe | HTTP in detail](https://tryhackme.com/room/webfundamentals)
 
@@ -383,7 +383,7 @@ Here are a few other labs you could consider adding:
 
 - [ ] [🕵️ TryHackMe | WebGOAT](https://tryhackme.com/room/webgoat)
 
-- [x] [🕵️ TryHackMe | Web Application Security](https://tryhackme.com/room/introwebapplicationsecurity)
+- [ ] [🕵️ TryHackMe | Web Application Security](https://tryhackme.com/room/introwebapplicationsecurity)
 
 - [ ] [🕵️ TryHackMe | DVWA](https://tryhackme.com/room/dvwa)
 
@@ -499,7 +499,7 @@ Here are a few other labs you could consider adding:
 
 - [ ] [🕵️ TryHackMe | Linux Privilege Escalation](https://tryhackme.com/room/linprivesc)
   
-- [x] [🕵️ TryHackMe | Linux PrivEsc](https://tryhackme.com/room/linuxprivesc)
+- [ ] [🕵️ TryHackMe | Linux PrivEsc](https://tryhackme.com/room/linuxprivesc)
   
 - [ ] [🕵️ TryHackMe | Linux PrivEsc Arena](https://tryhackme.com/room/linuxprivescarena)
   
@@ -541,7 +541,7 @@ Here are a few other labs you could consider adding:
   
 - [ ] [🕵️ TryHackMe | Anthem](https://tryhackme.com/room/anthem)
   
-- [x] [🕵️ TryHackMe | Blue](https://tryhackme.com/room/blue)
+- [ ] [🕵️ TryHackMe | Blue](https://tryhackme.com/room/blue)
 
 ## Active Directory
 
@@ -583,9 +583,9 @@ Here are a few other labs you could consider adding:
 
 ## Easy CTF
 
-- [x] [🕵️ TryHackMe | Offensive Security Intro](https://tryhackme.com/room/offensivesecurityintro)
+- [ ] [🕵️ TryHackMe | Offensive Security Intro](https://tryhackme.com/room/offensivesecurityintro)
 
-- [x] [🕵️ TryHackMe | Defensive Security Intro](https://tryhackme.com/room/defensivesecurityintro)
+- [ ] [🕵️ TryHackMe | Defensive Security Intro](https://tryhackme.com/room/defensivesecurityintro)
       
 - [ ] [🕵️ TryHackMe | Pyrat](https://tryhackme.com/room/pyrat)
   
@@ -601,17 +601,17 @@ Here are a few other labs you could consider adding:
 
 - [ ] [🕵️ TryHackMe | Eviction](https://tryhackme.com/room/eviction)
 
-- [x] [🕵️ TryHackMe | Become a Hacker](https://tryhackme.com/room/becomeahackeroa)
+- [ ] [🕵️ TryHackMe | Become a Hacker](https://tryhackme.com/room/becomeahackeroa)
 
-- [x] [🕵️ TryHackMe | W1seGuy](https://tryhackme.com/room/w1seguy)
+- [ ] [🕵️ TryHackMe | W1seGuy](https://tryhackme.com/room/w1seguy)
   
 - [ ] [🕵️ TryHackMe | mKingdom](https://tryhackme.com/room/mkingdom)
 
-- [x] [🕵️ TryHackMe | How Websites Work](https://tryhackme.com/room/howwebsiteswork)
+- [ ] [🕵️ TryHackMe | How Websites Work](https://tryhackme.com/room/howwebsiteswork)
   
 - [ ] [🕵️ TryHackMe | Linux Process Analysis](https://tryhackme.com/room/linuxprocessanalysis)
   
-- [x] [🕵️ TryHackMe | CyberLens](https://tryhackme.com/room/cyberlensp6)
+- [ ] [🕵️ TryHackMe | CyberLens](https://tryhackme.com/room/cyberlensp6)
 
 - [ ] [🕵️ TryHackMe | Security Principles](https://tryhackme.com/room/securityprinciples)
   
@@ -621,7 +621,7 @@ Here are a few other labs you could consider adding:
   
 - [ ] [🕵️ TryHackMe | Eviction](https://tryhackme.com/room/eviction)
 
-- [x] [🕵️ TryHackMe | Putting it all together](https://tryhackme.com/room/puttingitalltogether)
+- [ ] [🕵️ TryHackMe | Putting it all together](https://tryhackme.com/room/puttingitalltogether)
   
 - [ ] [🕵️ TryHackMe | Probe](https://tryhackme.com/room/probe)
   
@@ -639,7 +639,7 @@ Here are a few other labs you could consider adding:
   
 - [ ] [🕵️ TryHackMe | Super Secret TIp](https://tryhackme.com/room/supersecrettip)
   
-- [x] [🕵️ TryHackMe | Lesson Learned?](https://tryhackme.com/room/lessonlearned)
+- [ ] [🕵️ TryHackMe | Lesson Learned?](https://tryhackme.com/room/lessonlearned)
   
 - [ ] [🕵️ TryHackMe | Grep](https://tryhackme.com/room/greprtp)
   
@@ -655,7 +655,7 @@ Here are a few other labs you could consider adding:
   
 - [ ] [🕵️ TryHackMe | Capture!](https://tryhackme.com/room/capture)
   
-- [x] [🕵️ TryHackMe | Opacity](https://tryhackme.com/room/opacity)
+- [ ] [🕵️ TryHackMe | Opacity](https://tryhackme.com/room/opacity)
   
 - [ ] [🕵️ TryHackMe | LookBack](https://tryhackme.com/room/lookback)
   
@@ -673,7 +673,7 @@ Here are a few other labs you could consider adding:
   
 - [ ] [🕵️ TryHackMe | Fowsniff CTF](https://tryhackme.com/room/ctf)
 
-- [x] [🕵️ TryHackMe | RootMe](https://tryhackme.com/room/rrootme)
+- [ ] [🕵️ TryHackMe | RootMe](https://tryhackme.com/room/rrootme)
 
 - [ ] [🕵️ TryHackMe | AttackerKB](https://tryhackme.com/room/attackerkb)
 
@@ -701,7 +701,7 @@ Here are a few other labs you could consider adding:
 
 - [ ] [🕵️ TryHackMe | Ninja Skills](https://tryhackme.com/room/ninjaskills)
 
-- [x] [🕵️ TryHackMe | Ice](https://tryhackme.com/room/ice)
+- [ ] [🕵️ TryHackMe | Ice](https://tryhackme.com/room/ice)
 
 - [ ] [🕵️ TryHackMe | Lian_Yu](https://tryhackme.com/room/lianyu)
 
@@ -789,7 +789,7 @@ Here are a few other labs you could consider adding:
   
 - [ ] [🕵️ TryHackMe | Breakme](https://tryhackme.com/room/breakmenu)
   
-- [x] [🕵️ TryHackMe | Block](https://tryhackme.com/room/blockroom)
+- [ ] [🕵️ TryHackMe | Block](https://tryhackme.com/room/blockroom)
   
 - [ ] [🕵️ TryHackMe | APIWizards Breach](https://tryhackme.com/room/apiwizardsbreach)
   
@@ -831,7 +831,7 @@ Here are a few other labs you could consider adding:
 
 - [ ] [🕵️ TryHackMe | Boogeyman 1](https://tryhackme.com/room/boogeyman1)
 
-- [x] [🕵️ TryHackMe | Mr Robot CTF](https://tryhackme.com/room/mrrobot)
+- [ ] [🕵️ TryHackMe | Mr Robot CTF](https://tryhackme.com/room/mrrobot)
 
 - [ ] [🕵️ TryHackMe | Unattended](https://tryhackme.com/room/unattended)
 
@@ -851,7 +851,7 @@ Here are a few other labs you could consider adding:
 
 - [ ] [🕵️ TryHackMe | The Marketplace](https://tryhackme.com/room/marketplace)
 
-- [x] [🕵️ TryHackMe | Nax](https://tryhackme.com/room/nax)
+- [ ] [🕵️ TryHackMe | Nax](https://tryhackme.com/room/nax)
 
 - [ ] [🕵️ TryHackMe | Mindgames](https://tryhackme.com/room/mindgames)
 
@@ -873,7 +873,7 @@ Here are a few other labs you could consider adding:
 
 - [ ] [🕵️ TryHackMe | hackerNote](https://tryhackme.com/room/hackernote)
 
-- [x] [🕵️ TryHackMe | dogcat](https://tryhackme.com/room/dogcat)
+- [ ] [🕵️ TryHackMe | dogcat](https://tryhackme.com/room/dogcat)
 
 - [ ] [🕵️ TryHackMe | ConvertMyVideo](https://tryhackme.com/room/convertmyvideo)
 
@@ -1069,7 +1069,7 @@ Here are a few other labs you could consider adding:
 
 ## Insane CTF
 
-- [x] [🕵️ TryHackMe | Frosteau Busy with Vim](https://tryhackme.com/room/busyvimfrosteau)
+- [ ] [🕵️ TryHackMe | Frosteau Busy with Vim](https://tryhackme.com/room/busyvimfrosteau)
 
 ## Misc
 
@@ -1171,7 +1171,7 @@ Here are a few other labs you could consider adding:
 
 - [ ] [🕵️ TryHackMe | Advent of Cyber 2022](https://tryhackme.com/room/adventofcyber4)
 
-- [x] [🕵️ TryHackMe | Advent of Cyber 2023](https://tryhackme.com/room/adventofcyber2023)
+- [ ] [🕵️ TryHackMe | Advent of Cyber 2023](https://tryhackme.com/room/adventofcyber2023)
 
 - [ ] [🕵️ TryHackMe | Advent of Cyber 2024](https://tryhackme.com/room/adventofcyber2024)
 
